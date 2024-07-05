@@ -3,5 +3,5 @@ Mi primer Repositorio
 
 # Casos por aprender
 
--Informática Forense
--DevSecOps
+- Informática Forense
+- DevSecOps
